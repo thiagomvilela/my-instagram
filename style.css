@@ -89,8 +89,8 @@
     -o-border-radius: 100%;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
-    max-width: 60px;
-    max-height: 60px;
+    max-width: 75px;
+    max-height: 75px;
     display: block;
     margin-left: auto;
     margin-right: auto
@@ -101,4 +101,52 @@
     font-size: 15px;
     font-weight: 600;
     padding-top: 10px;
+}
+
+.nav-feed {
+    border-bottom: none !important; 
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+}
+
+.nav-link-1 {
+    color: #495057;
+    background-color: #fafafa !important;
+    border-color: gray #fff #fff !important;
+    border-top-right-radius: .0rem !important;
+    border-top-left-radius: .0rem !important;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.nav-link-2 {
+    color: #a2a8af;
+    background-color: #fafafa !important;
+    border-color: #fff #fff #fff !important;
+    border-top-right-radius: .0rem !important;
+    border-top-left-radius: .0rem !important;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.nav-link-3 {
+    color: #a2a8af;
+    background-color: #fafafa !important;
+    border-color: #fff #fff #fff !important;
+    border-top-right-radius: .0rem !important;
+    border-top-left-radius: .0rem !important;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.card {
+    border: 0px solid rgba(0,0,0,.125) !important;
+    border-radius: .0rem !important;
+}
+
+.card .card-img, .card-img-top {
+    border-top-left-radius: 0rem !important;
+    border-top-right-radius: 0rem !important;
 }
