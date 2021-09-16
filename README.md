@@ -3,7 +3,7 @@
 </h1>
 
 
-<h1 align="center">Porto Digital Residence - Rise Up: HTML, CSS and Bootstrap </h1>
+<h1 align="center">Porto Digital Residence: HTML, CSS and Bootstrap </h1>
 
 ## Project description
 
@@ -11,7 +11,7 @@ The Porto Digital Residency program is part of a teaching modality carried out w
 
 In other words, with the program, students have direct contact with companies and their challenges, making the learning process richer and in direct connection with the demands of the labor market.
 
-Track: HTML, CSS and Bootstrap.
+HTML, CSS and Bootstrap.
 
 - Starting the project.
 - Inserting Header and Nav.
