@@ -11,7 +11,7 @@ The Porto Digital Residency program is part of a teaching modality carried out w
 
 In other words, with the program, students have direct contact with companies and their challenges, making the learning process richer and in direct connection with the demands of the labor market.
 
-HTML, CSS and Bootstrap.
+HTML, CSS, and Bootstrap course in which the construction of a page that recreates the profile of a social network was seen in practice.
 
 - Starting the project.
 - Inserting Header and Nav.
