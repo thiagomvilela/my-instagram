@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Porto-Digital" src="./images/porto-digital.png" />
+  <img alt="Porto-Digital" src="./img/porto-digital.png" />
 </h1>
 
 
